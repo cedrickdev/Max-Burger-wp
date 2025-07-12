@@ -1,0 +1,5 @@
+[Sat Jul 12 13:15:05.371321 2025] [mpm_event:notice] [pid 17511:tid 8431509248] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Sat Jul 12 13:15:05.371527 2025] [core:notice] [pid 17511:tid 8431509248] AH00094: Command line: '/Users/feze/Library/Application Support/Local/lightning-services/apache-2.4.43+11/bin/darwin-arm64/bin/httpd -D FOREGROUND -f /Users/feze/Library/Application Support/Local/run/yHZGsDTEw/conf/apache/apache2.conf'
+[Sat Jul 12 13:20:41.149069 2025] [mpm_event:notice] [pid 17511:tid 8431509248] AH00491: caught SIGTERM, shutting down
+[Sat Jul 12 13:20:57.444719 2025] [mpm_event:notice] [pid 19342:tid 8431509248] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Sat Jul 12 13:20:57.444991 2025] [core:notice] [pid 19342:tid 8431509248] AH00094: Command line: '/Users/feze/Library/Application Support/Local/lightning-services/apache-2.4.43+11/bin/darwin-arm64/bin/httpd -D FOREGROUND -f /Users/feze/Library/Application Support/Local/run/yHZGsDTEw/conf/apache/apache2.conf'
